@@ -927,6 +927,10 @@ color: var(--color-text);
     margin-bottom: 30px;
 }
 
+.modal-check {
+    position: absolute;
+}
+
 .check-text {
 font-size: 14px;
 line-height: 1.7143;
